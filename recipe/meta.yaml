@@ -1,6 +1,6 @@
 {% set name = "azure-storage-nspkg" %}
-{% set version = "3.0.0" %}
-{% set sha256 = "855315c038c0e695868025127e1b3057a1f984af9ccfbaeac4fbfd6c5dd3b466" %}
+{% set version = "3.1.0" %}
+{% set sha256 = "6f3bbe8652d5f542767d8433e7f96b8df7f518774055ac7c92ed7ca85f653811" %}
 
 package:
   name: {{ name|lower }}
